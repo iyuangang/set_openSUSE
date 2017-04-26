@@ -1,9 +1,10 @@
 # add local reop
+```
 http://mirrors.ustc.edu.cn/opensuse/tumbleweed/repo/oss/
 http://mirrors.ustc.edu.cn/opensuse/tumbleweed/repo/non-oss/
 http://download.opensuse.org/repositories/openSUSE:/Factory:/Update/standard/
 http://mirrors.aliyun.com/packman/openSUSE_Tumbleweed/
-
+```
 # Install dependent Libraries
 ```
 sudo zypper install libncurses5-dev libgnome2-dev libgnomeui-dev \
