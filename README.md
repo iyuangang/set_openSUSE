@@ -1,4 +1,4 @@
-# add local reop
+# Add local reop
 ```
 http://mirrors.ustc.edu.cn/opensuse/tumbleweed/repo/oss/
 http://mirrors.ustc.edu.cn/opensuse/tumbleweed/repo/non-oss/
