@@ -41,16 +41,17 @@ sudo make install
 ```
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ```
-# VIM spf13 install
-```
-curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
-```
+
 # YouCompleteMe and airline
 ```
 let g:spf13_bundle_groups=['general', 'programming', 'misc', 'scala', 'youcompleteme']
 ```
 ```
 let g:airline_powerline_fonts=1
+```
+# VIM spf13 install
+```
+curl https://j.mp/spf13-vim3 -L > spf13-vim.sh && sh spf13-vim.sh
 ```
 # Compile YouCompleteMe
 ```
